@@ -56,6 +56,7 @@ Your cross-platform workspace for terminal access, remote connections, file tran
 - **[Cloudflare Sync](https://github.com/Anubis-Security-Tool/anubis-sync-server-cloudflare)** — alternative Workers/D1 synchronization backend.
 - **[Package Sources](https://github.com/Anubis-Security-Tool/anubis-packages)** — the owned scoped SSH, sync, terminal, locale, theme and transfer-package sources.
 - **[Download Site](https://github.com/Anubis-Security-Tool/anubis-site)** — independent release metadata, download-site generation and Web source installer wrappers.
+- **[Third-party notices and source](https://github.com/Anubis-Security-Tool/anubis-third-party-compliance)** — original license material, attribution provenance and corresponding-source archives used by distribution builds.
 
 The optional [HTTP tunnel](https://github.com/Anubis-Security-Tool/anubis-http-tunnel)
 and [legacy RDP.js](https://github.com/Anubis-Security-Tool/anubis-rdpjs) components
