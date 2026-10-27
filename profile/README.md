@@ -52,6 +52,21 @@ Your cross-platform workspace for terminal access, remote connections, file tran
 - **[Anubis Web](https://github.com/Anubis-Security-Tool/anubis-web)** — browser-based workspace for remote-access workflows.
 - **[Anubis Managed Access](https://github.com/Anubis-Security-Tool/anubis-managed-access)** — device enrollment and controlled remote access.
 - **[Anubis Resources](https://github.com/Anubis-Security-Tool/anubis-resource)** — branding, application icons, and cross-platform build resources.
+- **[Node Sync](https://github.com/Anubis-Security-Tool/anubis-sync-server-node)** — dependency-free, self-hosted synchronization backend.
+- **[Cloudflare Sync](https://github.com/Anubis-Security-Tool/anubis-sync-server-cloudflare)** — alternative Workers/D1 synchronization backend.
+- **[Package Sources](https://github.com/Anubis-Security-Tool/anubis-packages)** — the owned scoped SSH, sync, terminal, locale, theme and transfer-package sources.
+- **[Download Site](https://github.com/Anubis-Security-Tool/anubis-site)** — independent release metadata, download-site generation and Web source installer wrappers.
+
+The optional [HTTP tunnel](https://github.com/Anubis-Security-Tool/anubis-http-tunnel)
+and [legacy RDP.js](https://github.com/Anubis-Security-Tool/anubis-rdpjs) components
+retain their GPL licenses and are separate from the current MIT application.
+The RDP.js reference is not its active RDP backend.
+
+For a complete local Desktop + Web + Sync source setup, use the
+[source-suite guide](https://github.com/Anubis-Security-Tool/anubis/blob/main/docs/SOURCE-INSTALL.md).
+For another computer, use the
+[migration guide](https://github.com/Anubis-Security-Tool/anubis/blob/main/docs/MIGRATION.md);
+do not transfer machine-bound encryption or managed-device identities blindly.
 
 ### 🔬 Security Modules
 
@@ -101,7 +116,7 @@ Whether you're a developer, security researcher, system administrator, or open-s
 | 🧪 Organization Repositories | [Browse All Projects](https://github.com/orgs/Anubis-Security-Tool/repositories) |
 | 💬 Discussions | [Community Discussions](https://github.com/Anubis-Security-Tool/anubis/discussions) |
 | 🐛 Bug Reports | [Open an Issue](https://github.com/Anubis-Security-Tool/anubis/issues) |
-| 🤝 Contribution Guidelines | [Contributing](https://github.com/Anubis-Security-Tool/anubis/blob/main/CONTRIBUTING.md) |
+| 🤝 Contribution Guidelines | [Contributing](https://github.com/Anubis-Security-Tool/anubis/blob/main/.github/CONTRIBUTING.md) |
 
 ---
 
