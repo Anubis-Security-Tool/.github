@@ -1,5 +1,5 @@
 
-<img width="100%" alt="AI Security Tool Banner" src="/back-logo.png" style="max-width: 100%;">
+<img width="100%" alt="AI Security Tool Banner" src="back-logo.png" style="max-width: 100%;">
 <hr>
 
 # 🛡️ Anubis Security Tool
